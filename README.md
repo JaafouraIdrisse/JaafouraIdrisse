@@ -1,11 +1,11 @@
 🌐 Jaafoura Mohamed Idrisse | GitHub Portfolio
+
 Welcome to my GitHub profile! I am Jaafoura Mohamed Idrisse, an Embedded Systems Developer from Monastir, Tunisia, passionate about crafting innovative solutions at the intersection of hardware and software. My work focuses on embedded systems and cross-platform development, with a strong commitment to open-source collaboration and technical excellence.
 
 🛠️ Technical Toolbox
 Here’s the tech I leverage to build robust and scalable solutions:
 
-Languages:  
-
+Languages: 
 Embedded C ⚙️  
 C++ 💻  
 JavaScript 🌐  
@@ -13,30 +13,24 @@ Python 🐍
 
 
 Frameworks:  
-
 Flutter for seamless UIs ✨
 
 
 Tools & Platforms:  
-
 Git 🦸  
 VSCode 💻  
 Arduino IDE 🛠️
 
 
 Hardware:  
-
 LattePanda 3 Delta  
 ESP32  
 Arduino Uno
 
 
 Domains:  
-
 Embedded Systems  
 Real-Time Systems
-
-
 
 
 👨‍💻 About Me
@@ -52,7 +46,6 @@ Explore some of my standout projects, each highlighting my expertise in embedded
 Scooter DashboardA sleek Flutter-based dashboard for scooters, delivering real-time data (speed, battery, turn signals) on a LattePanda 3 Delta with a 7-inch eDP display.  
 Tech Stack: Flutter, Embedded C, LattePanda  
 Why It’s Cool: Combines mobile-grade UI with embedded hardware for a smooth rider experience. 🛵
-
 
 
 👉 Dive into my repositories, fork, star, or contribute to make them even better!
