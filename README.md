@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I am Jaafoura Mohamed Idrisse, an Embedded Systems
 Here’s the tech I leverage to build robust and scalable solutions:
 
 Languages: 
+
 Embedded C ⚙️  
 C++ 💻  
 JavaScript 🌐  
